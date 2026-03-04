@@ -20,12 +20,9 @@ I’m open to collaborating on **projects, challenges**, or **discussions** rela
 
 ## 📫 How to Reach Me
 Feel free to reach out:
-- Email: [rousandrei2009@gmail.com]
+- Email: [rosuandrei2009@gmail.com]
 
----
 
-## 😄 Pronouns
-He/Him
 
 ---
 
