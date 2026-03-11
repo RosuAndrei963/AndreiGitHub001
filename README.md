@@ -1,34 +1,36 @@
-# 👋 Hi, I’m Andrei!
+# Rosu Andrei
 
-I’m a passionate developer constantly expanding my skills in **programming**. I believe in learning by doing, and I’m excited about the journey ahead!
-
----
-
-## 🔍 What I'm Learning
-- **Python** 🐍 – building projects and solving problems
-- **HTML/CSS/JS** – crafting web pages and frontend magic
-- **JSON** – working with data and APIs
+Self-taught developer from Romania. Started coding at 13 and haven't stopped since.
+Currently a student, working toward an internship in software development before college.
 
 ---
 
-## 💬 Let’s Collaborate!
-I’m open to collaborating on **projects, challenges**, or **discussions** related to:
-- Web development
-- Anything code-related—let’s connect!
+## Currently Focused On
+
+- 🎓 **CS50** — Harvard's intro to computer science
+- 🔐 **Cybersecurity** — completed Cisco Networking's intro; working through David Malan's cybersecurity course
+- 📝 **SAT prep** — working toward college admission
+- 💼 **Internship hunting** — building the portfolio and skills to land a dev role before university
 
 ---
 
-## 📫 How to Reach Me
-Feel free to reach out:
-- Email: [rosuandrei2009@gmail.com]
+## Tech Stack
 
-
-
----
-
-## ⚡ Fun Fact
-I started coding at 13, and it's been my passion ever since. Also, I love solving puzzles—whether they’re coding challenges or riddles! I'm deeply passionate about **math**, especially **algebra** and **geometry**, which often inspires the way I approach problem-solving in programming.
+**Languages:** Python · JavaScript · HTML · CSS · C#  
+**Libraries & Tools:** Pandas · Tkinter · Turtle · Requests · Git · GitHub
 
 ---
 
-Thanks for stopping by! Let's learn, grow, and build amazing things together. 😊
+## Goals
+
+- Land a software development internship
+- Compete in programming contests (Codeforces)
+- Build larger, more complex projects — moving beyond tutorials into real software
+- Study computer science 
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrei%20Rosu-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrei-rosu-91871b35a)  
+📧 rosuandrei2009@gmail.com
